@@ -12,4 +12,5 @@ func testFunc() int {
 func main() {
 	fmt.Printf("Helloworld\n")
 	fmt.Printf("Helloworld\n")
+	fmt.Printf("Helloworld\n")
 }
